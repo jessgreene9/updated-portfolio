@@ -1,7 +1,7 @@
 import React from "react";
 import picture from "../../../assets/images/Headshot.jpg";
 import Container from "react-bootstrap/Container";
-// import Footer from "../../components/Footer/Footer";
+import Footer from "../../Footer/Footer";
 // import "./style.css";
 
 function About() {
@@ -14,7 +14,7 @@ function About() {
             <img
               src={picture}
               alt="Jess Greene"
-              className="profile-img p-3 float-right m-4 pull-right img-fluid rounded"
+              className="profile-img p-3 m-4 pull-right img-fluid rounded"
             />
           </p>
           <p>
@@ -34,7 +34,7 @@ completed and to build on skills learned in this course to create
 a new and better future for myself.
 </p>
         </div>
-        {/* <Footer /> */}
+        <Footer />
       </Container>
     </>
   );
