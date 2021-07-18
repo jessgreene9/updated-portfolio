@@ -10,7 +10,7 @@ import { faGithubSquare, faLinkedin } from "@fortawesome/free-brands-svg-icons"
 function Footer() {
   return (
     <div className="footer pt-5">
-      <small className="align-text-center">&copy; 2021 Jess Greene</small>
+      <medium className="align-text-center">&copy; 2021 Jess Greene</medium>
       <div className="p-1 size-md">
        <a
             href="tel:704-242-4748"
@@ -46,8 +46,7 @@ function Footer() {
           </a>
         </div> 
   </div>
-    // </div>
-    // </Container>
+   
   );
 }
 

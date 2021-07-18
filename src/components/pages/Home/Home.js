@@ -8,7 +8,8 @@ function About() {
   return (
     <>
       <Container fluid="md" className="about-div m-3 p-2">
-        <h2 className="subheading page-header">About Me</h2>
+              <h1 className= "text-right">Jess Greene</h1>
+          <h2 className="text-left">About Me</h2>  
         <div className="about-me">
           <p>
             <img
