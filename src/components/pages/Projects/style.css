@@ -1,19 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
 
-
-.footer {
-    padding: 4px;
+.projects {
+    box-shadow: 5px 5px 5px 10px rgb(194, 186, 186);
     font-family: 'Acme', sans-serif;
+    font-size: 24px;
 }
 
-a {
-    padding:6px;
-    font-family: 'Acme', sans-serif;
+.page-header {
+    font-size: 64px;
 }
 
-.icon:hover {
+.projects:hover {
     -webkit-transform: scale(1.1);
         -ms-transform: scale(1.1);
         transform: scale(1.1);
         transition: all 0.3s ease 0s;
+}
+
+.list-group-item {
+    background:lightgray;
 }

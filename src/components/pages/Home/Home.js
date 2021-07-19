@@ -8,20 +8,20 @@ import "./style.css";
 function About() {
   return (
     <>
-      <Container fluid="md" className="about-div m-3 ">
         <header className="hero">
           <div className="inner">
-            <h1 className="text-center">Jess Greene</h1>
+            <h1 className="name text-center">Jess Greene</h1>
           </div>
           <h3 className="text-center">Coding Boot Camp Student </h3>
         </header>
+      <Container fluid="md" className="home m-3">
         <h2 className="text-left">About Me</h2>
         <div className="about-me">
           <p>
             <img
               src={picture}
               alt="Jess Greene"
-              className="profile m-4 pull-right"
+              className="bio m-4 pull-right"
             />
           </p>
           <p>

@@ -1,14 +1,41 @@
-img {
-    border-radius: 120px 120px;
-    box-shadow: 10px 10px 5px grey;
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+
+.bio {
+  border-radius: 120px 120px;
+  box-shadow: 8px 8px 8px 10px rgb(194, 186, 186);
 }
 
 .hero {
-    height: 200px;
-    width: 100vw;
-    background-image: url("../../../assets/images/hero.jpg");
-    background-size: cover;
-    background-position: center;
-   
+  height: 200px;
+  width: 100vw;
+  background-image: url("../../../assets/images/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  box-shadow: 5px 5px 5px 10px rgb(194, 186, 186);
+  font-family: "Acme", sans-serif;
+  margin-top: 5px;
+}
 
-  }
+.name {
+  font-size: 60px;
+}
+
+body {
+  background-color: rgb(78, 83, 87);
+}
+
+.about-me,
+h2 {
+  color: white;
+  font-family: "Acme", sans-serif;
+}
+
+h2 {
+  padding-top: 20px;
+  font-family: "Acme", sans-serif;
+   font-size: 40px;
+}
+
+.about-me {
+  font-size: 20px;
+}
