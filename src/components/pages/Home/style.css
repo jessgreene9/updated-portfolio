@@ -1,0 +1,14 @@
+img {
+    border-radius: 120px 120px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.hero {
+    height: 200px;
+    width: 100vw;
+    background-image: url("../../../assets/images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+   
+
+  }

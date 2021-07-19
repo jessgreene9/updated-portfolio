@@ -1,16 +1,16 @@
 import React from "react";
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMobileAlt, faEnvelope  } from '@fortawesome/free-solid-svg-icons';
 import { faGithubSquare, faLinkedin } from "@fortawesome/free-brands-svg-icons"
-// import "./style.css";
+import "./style.css";
 
 
 
 function Footer() {
   return (
     <div className="footer pt-5">
-      <medium className="align-text-center">&copy; 2021 Jess Greene</medium>
+      <span className="align-text-center">&copy; 2021 Jess Greene</span>
       <div className="p-1 size-md">
        <a
             href="tel:704-242-4748"

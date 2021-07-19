@@ -1,11 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faProjectDiagram,
-  faUserCircle,
-  faEnvelope,
-  faFileDownload,
-} from "@fortawesome/free-solid-svg-icons";
+import {faProjectDiagram, faUserCircle, faEnvelope, faFileDownload,} from "@fortawesome/free-solid-svg-icons";
 import { Nav, Navbar } from "react-bootstrap";
 import { Link, useLocation } from "react-router-dom";
 import resume from "../../assets/resume/Jess Greene RESUME2.0 2021.pdf";
@@ -14,7 +9,7 @@ function NavBar() {
   const location = useLocation();
 
   return (
-    <Navbar collapseOnSelect expand="md" bg="secondary" >
+    <Navbar collapseOnSelect expand="md" bg="info" variant="light" >
       <Link to="/"></Link>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
