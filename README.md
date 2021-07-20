@@ -29,9 +29,9 @@ This webpage is responsive and will adjust to a smaller view-point for readabili
 ## Screenshots
 
 
-<img src="./public/screenshot1.png">
-<img src="./public/screenshot2.png">
-<img src="./public/screenshot.png">
+<img src="./public/images/screenshot1.png">
+<img src="./public/images/screenshot2.png">
+<img src="./public/images/screenshot.png">
 
 
 
