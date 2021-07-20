@@ -24,6 +24,7 @@ function About() {
               className="bio m-4 pull-right"
             />
           </p>
+          <br></br>
           <p>
             I currently live in Wilmington, North Carolina. I graduated from the
             University of North Carolina at Wilmington in 2007 with an English
