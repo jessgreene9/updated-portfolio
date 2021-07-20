@@ -31,7 +31,7 @@ function About() {
             University of North Carolina at Wilmington in 2007 with an English
             degree and a Teacher's License. Over the years, I have discovered
             that I am incredibly interested in what goes on behind the scenes
-            with websites and applications. This has led me to enrolling in the
+            of websites and applications. This has led me to enrolling in the
             Coding Boot Camp program at the University of North Carolina at
             Charlotte.
           </p>
