@@ -6,7 +6,7 @@ Updated Portfolio using React
 - [Deployed Website](#deployedwebsite)
 - [Description](#description)
 - [Screenshots](#screenshots)
-- [Tech/Framework](#tech/framework)
+- [Tech/Framework](#techframework)
 - [Contact](#contact)
 - [License](#license)
 
