@@ -7,11 +7,12 @@ Updated Portfolio using React
 - [Description](#description)
 - [Screenshots](#screenshots)
 - [Tech/Framework](#tech/framework)
+- [Contact](#contact)
 - [License](#license)
 
 ## Deployed Website
 
-https://jessgreene9.github.io/jess-greene-portfolio/
+https://jessgreene9.github.io/updated-portfolio/
 
 ## Description
 
@@ -28,14 +29,25 @@ This webpage is responsive and will adjust to a smaller view-point for readabili
 ## Screenshots
 
 
-<img src="./assets/images/screenshotfull.png">
+<img src="./public/screenshot1.png">
+<img src="./public/screenshot2.png">
+<img src="./public/screenshot.png">
 
 
 
 ## Tech/Framework
 
 VS Code
+React
+Bootstrap
 
+
+## Contact
+
+    
+For any questions about this project, please visit my GitHub page: [GitHub Profile](https://github.com/jessgreene9)
+      
+Or email me at: [Jess Greene](mailto:jess.greene9@gmail.com)
 
 
 ## License
