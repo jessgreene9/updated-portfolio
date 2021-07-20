@@ -15,8 +15,6 @@ function About() {
           <h3 className="text-center">Coding Boot Camp Student </h3>
         </header>
       <Container fluid="md" className="home m-3">
-        <h2 className="text-left">About Me</h2>
-        <div className="about-me">
           <p>
             <img
               src={picture}
@@ -24,7 +22,10 @@ function About() {
               className="bio m-4 pull-right"
             />
           </p>
+        <h2 className="text-left">About Me</h2>
+        <div className="about-me">
           <br></br>
+          
           <p>
             I currently live in Wilmington, North Carolina. I graduated from the
             University of North Carolina at Wilmington in 2007 with an English
