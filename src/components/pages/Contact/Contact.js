@@ -11,12 +11,12 @@ function Contact() {
     <Container className="contact">
       <h2 className="header">Get in Touch!</h2>
       <div className="card-box">
-        <div className="card p-1 bg-light centered card-contact">
+        <div className="card p-1 centered">
           <div className="card-title">Contact Me:</div>
 
           <ul className="list-group">
             <li className="list-group-item">
-              <FontAwesomeIcon icon={faEnvelope} size="1x" /> :
+              <FontAwesomeIcon icon={faEnvelope} /> :
               <a
                 href="mailto: jess.greene9@gmail.com"
                 target="_blank"
@@ -27,7 +27,7 @@ function Contact() {
               </a>
             </li>
             <li className="list-group-item">
-              <FontAwesomeIcon icon={faGithubSquare} size="1x" /> :
+              <FontAwesomeIcon icon={faGithubSquare} /> :
               <a
                 href="https://github.com/jessgreene9"
                 target="_blank"
@@ -38,7 +38,7 @@ function Contact() {
               </a>
             </li>
             <li className="list-group-item">
-              <FontAwesomeIcon icon={faLinkedin} size="1x" /> :
+              <FontAwesomeIcon icon={faLinkedin} /> :
               <a
                 href="https://www.linkedin.com/in/jess-greene-241139211/"
                 target="_blank"
