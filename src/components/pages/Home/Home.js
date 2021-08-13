@@ -23,13 +23,15 @@ function About() {
           <br></br>
 
           <p>
-            I am a Full Stack Web Developer based in Wilmington, NC. I received
-            Certification through University of North Carolina at Charlotte
-            Coding Bootcamp. I am a natural problem solver and love challenging
-            myself to continue to learn and improve on my existing skill sets.
-            After several years of teaching myself different computer skills as
-            an Operations Manager, I decided to truly expand my knowledge by
-            enrolling in the immersive experience of the boot camp.
+            I am a Full Stack Web Developer based in Wilmington, NC. I
+            originally graduated with an English degree and teaching license
+            from UNCW in 2007. I have recently received Certification through University of
+            North Carolina at Charlotte Coding Bootcamp. I am a natural problem
+            solver and love challenging myself to continue to learn and improve
+            on my existing skill sets. After several years of teaching myself
+            different computer skills as an Operations Manager, I decided to
+            truly expand my knowledge by enrolling in the immersive experience
+            of the boot camp.
           </p>
           <p>
             I excel in collaboration with others, as well as working on my own
