@@ -8,7 +8,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { Nav, Navbar } from "react-bootstrap";
 import { Link, useLocation } from "react-router-dom";
-import resume from "../../assets/resume/Jess Greene RESUME2.0 2021.pdf";
+import resume from "../../assets/resume/Jess Greene RESUME3.0 2021.pdf";
 
 function NavBar() {
   const location = useLocation();
